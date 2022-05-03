@@ -1,6 +1,4 @@
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-design.jpg)
-![Design preview for the NFT preview card component coding challenge](./design/mobile-design.jpg)
-
 
 ## My process
 
